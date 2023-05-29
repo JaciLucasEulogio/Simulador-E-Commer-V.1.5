@@ -29,7 +29,7 @@ const productos=[
         precio: 88.05,
         subTotal:88.05,
         stock: 10,
-        imagen: "../imagenes/productos/pantalonVaquero.jpg"
+        imagen: "./imagenes/productos/pantalonVaquero.jpg"
     },
     {
         id:1,
@@ -37,7 +37,7 @@ const productos=[
         precio: 125.3,
         subTotal:125.3,
         stock: 10,
-        imagen: "../imagenes/productos/pantalonCargo.jpg"
+        imagen: "./imagenes/productos/pantalonCargo.jpg"
     },
     {
         id:2,
@@ -45,7 +45,7 @@ const productos=[
         precio: 123.38,
         subTotal:123.38,
         stock: 10,
-        imagen: "../imagenes/productos/cardiganV.jpg"
+        imagen: "./imagenes/productos/cardiganV.jpg"
     },
     {
         id:3,
@@ -53,7 +53,7 @@ const productos=[
         precio: 130.93,
         subTotal: 130.93,
         stock: 10,
-        imagen: "../imagenes/productos/abrigoPana.jpg",
+        imagen: "./imagenes/productos/abrigoPana.jpg",
     },
     {
         id:4,
@@ -61,7 +61,7 @@ const productos=[
         precio: 123.95,
         stock: 10,
         subTotal:123.95,
-        imagen: "../imagenes/productos/abrigoAlgodon.jpg",
+        imagen: "./imagenes/productos/abrigoAlgodon.jpg",
     }
 ]
 
