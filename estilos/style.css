@@ -341,7 +341,11 @@ h5{
     background-color: var(--bgColor);
     color:var(--mainColor);
 }
-
+.btn{
+    border:none;
+    background-color: transparent;
+    color:white;
+}
 
 
 .space{
